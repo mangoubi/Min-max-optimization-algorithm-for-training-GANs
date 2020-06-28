@@ -1,4 +1,4 @@
-This project contains the code used in the simulations of Section 5 of the paper "A Provably Convergent and Practical Algorithm for Min-max Optimization with Applications to GANs" <<https://arxiv.org/abs/2006.12376>>
+This project contains the code used in the simulations of Section 5 of the paper "A Provably Convergent and Practical Algorithm for Min-max Optimization with Applications to GANs" https://arxiv.org/abs/2006.12376
 
 --The file "MNIST_Code.ipynb" contains the code used for the simulations in Figure 2, and in Appendix E.1, E.3, E.4, and E.5 of our paper.  (This file contains the code for our algorithm and for GDA, on the MNIST dataset.)
 
