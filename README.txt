@@ -10,9 +10,8 @@ This project contains the code used in the simulations of Section 5 of the paper
 
 
 
-Our code for the MNIST simulations is based on the code of Renu Khandelwal https://medium.com/datadriveninvestor/generative-adversarial-network-gan-using-keras-
-ce1c05cfdfd3 and Rowel Atienza https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0.
+Our code for the MNIST simulations is based on the code of Renu Khandelwal https://medium.com/datadriveninvestor/generative-adversarial-network-gan-using-keras-ce1c05cfdfd3 and Rowel Atienza https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0.
 
-Our code for the CIFAR simulations is based on the code of Jason Brownlee https://machinelearningmastery.com/how-to-develop-a-generative-adversarial- network-for-a-cifar-10-small-object-photographs-from-scratch/
+Our code for the CIFAR simulations is based on the code of Jason Brownlee https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/
 
 Our code for the Gaussian Simulations is based on code provided by Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein for their paper Unrolled generative adversarial networks. https://arxiv.org/abs/1611.02163
