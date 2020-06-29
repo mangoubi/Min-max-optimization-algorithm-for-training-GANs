@@ -14,4 +14,4 @@ Our code for the MNIST simulations is based on the code of Renu Khandelwal https
 
 Our code for the CIFAR simulations is based on the code of Jason Brownlee https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/
 
-Our code for the Gaussian Simulations is based on code provided by Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein for their paper Unrolled generative adversarial networks. https://arxiv.org/abs/1611.02163
+Our code for the Gaussian simulations is based on code provided by Luke Metz, Ben Poole, David Pfau, and Jascha Sohl-Dickstein for their paper "Unrolled generative adversarial networks" https://arxiv.org/abs/1611.02163
